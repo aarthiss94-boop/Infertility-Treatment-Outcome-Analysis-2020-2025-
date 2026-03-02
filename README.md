@@ -1,0 +1,2 @@
+# Infertility-Treatment-Outcome-Analysis-2020-2025-
+This project focuses on analyzing infertility trends using structured healthcare data from 2020 to 2025. The primary objective is to identify patterns, causes, treatment effectiveness and success rates through data-driven insights. Infertility is growing global health concern affecting both men and women, influenced by age, hormonal imbalance etc.

@@ -9,9 +9,9 @@ iii) Analyze financial impact
 iv) Support data-driven decisions
 
 ## About Dataset:
-Period: 2020-2025
-1000+records
-Fields: Age, Gender,City, Diagnosis, Treatment Type and Cycle, Cost
+i) Period: 2020-2025
+ii) 1000+records
+iii) Fields: Age, Gender,City, Diagnosis, Treatment Type and Cycle, Cost
 
 ## Tools Used:
 Excel: Data cleaning
@@ -19,17 +19,19 @@ PowerBI: Visualization and Dashboard
 DAX: (KPIs and Measures)
 
 ## Key KPIs:
-Total Patients
-Total Treatment Cycles
-Overall Success Rate
-Total Revenue
-Average Treatment Cost
+ Total Patients,
+Total Treatment Cycles,
+Overall Success Rate,
+Total Revenue,
+Average Treatment Cost.
 
 ## Key Insights:
 Higher success rates in younger age groups.
-IVF shows the better outcomes compare to other treatments like IUI
-Repeated cycles slightly imrpve success chances
+IVF shows the better outcomes compare to other treatments like IUI.
+Repeated cycles slightly imrpve success chances.
 Most of the patient successed in first treatment cycle.
+The gender distribution is almost equal indicating infertility affects both males and females at similar rate, The small percentage difference suggests infertility is not heavily skewed towards one gender in the dataset.
+
 
 ## Conclusion:
 This project highlights how bussiness intelligence tools can support healthcare decision-making and improve treatment performance analysis.
